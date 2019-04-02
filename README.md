@@ -1,1 +1,4 @@
-# password_generator
+# Password Generator
+Simple password generator.
+
+Created by:Ivan Kolev
